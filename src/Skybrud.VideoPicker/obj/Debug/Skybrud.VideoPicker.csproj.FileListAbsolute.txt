@@ -1,2 +1,0 @@
-C:\Work\Projects\Skybrud.VideoPicker\src\Skybrud.VideoPicker\obj\Debug\Skybrud.VideoPicker.csprojResolveAssemblyReference.cache
-C:\Work\Projects\Skybrud.VideoPicker\src\Skybrud.VideoPicker\obj\Debug\Skybrud.VideoPicker.csproj.CoreCompileInputs.cache

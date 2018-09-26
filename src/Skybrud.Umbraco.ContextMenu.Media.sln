@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skybrud.Umbraco.ContextMenu.Media", "Skybrud.VideoPicker\Skybrud.Umbraco.ContextMenu.Media.csproj", "{D49F4F30-D59B-4E0E-AB2A-E4D22A8952FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skybrud.Umbraco.ContextMenu.Media", "Skybrud.Umbraco.ContextMenu.Media\Skybrud.Umbraco.ContextMenu.Media.csproj", "{D49F4F30-D59B-4E0E-AB2A-E4D22A8952FF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8AD7F9BC-52EB-4ADD-929E-D00083E847A4}"
 	ProjectSection(SolutionItems) = preProject
