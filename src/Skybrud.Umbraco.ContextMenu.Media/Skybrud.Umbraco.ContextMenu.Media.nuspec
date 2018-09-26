@@ -6,11 +6,11 @@
     <title>$title$</title>
     <authors>René Pjengaard Bank</authors>
     <owners>René Pjengaard Bank</owners>
-    <licenseUrl>https://github.com/skybrud/Skybrud.VideoPicker/blob/master/LICENSE.md</licenseUrl>
-    <projectUrl>https://github.com/skybrud/Skybrud.VideoPicker</projectUrl>
+    <licenseUrl>https://github.com/rpjengaard/Skybrud.Umbraco.ContextMenu.Media/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/rpjengaard/Skybrud.Umbraco.ContextMenu.Media/</projectUrl>
     <iconUrl>http://www.skybrud.dk/img/5431sk/icon/favicon.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <tags>Skybrud, Umbraco, Videos, Picker, YouTube, Vimeo</tags>
+    <tags>Skybrud, Umbraco, ContextMenu, Media, Section, Download</tags>
   </metadata>
 </package>
