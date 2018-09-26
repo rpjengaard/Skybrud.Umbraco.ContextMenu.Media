@@ -1,4 +1,4 @@
-﻿angular.module("umbraco").controller("Skybrud.Editors.Media.DownloadMediaFolderController",
+﻿angular.module("umbraco").controller("Skybrud.Umbraco.ContextMenu.Media.DownloadMediaFolderController",
     function($scope, $window) {
         var dialogOptions = $scope.dialogOptions;
         var node = dialogOptions.currentNode;

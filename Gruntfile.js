@@ -105,7 +105,7 @@ module.exports = function (grunt) {
 	grunt.loadNpmTasks('grunt-zip');
 	grunt.loadNpmTasks('grunt-umbraco-package');
 
-	grunt.registerTask('release', ['clean', 'copy:binary', 'copy:resources', 'nugetpack', 'zip'/*, 'umbracoPackage'*/, 'clean']);
+	grunt.registerTask('release', ['clean', 'copy:binary', 'copy:resources', 'nugetpack', 'umbracoPackage', 'clean']);
 
 	grunt.registerTask('default', ['release']);
 
