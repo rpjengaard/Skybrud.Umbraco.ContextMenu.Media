@@ -1,0 +1,16 @@
+﻿{
+  propertyEditors: [
+    {
+      name: "Skybrud Media Download",
+      alias: "skybrud.downloadMediaFolder.editor",
+      editor: {
+        view: "~/App_Plugins/Skybrud.ContextMenu.Media/views/downloadMediaFolder.html",
+        valueType: "JSON"
+      }
+    }
+  ],
+
+	javascript: [
+		'~/App_Plugins/Skybrud.ContextMenu.Media/controllers/downloadMediaFolder.controller.js'
+	]
+}

@@ -1,0 +1,5 @@
+node_modules/
+src/packages/
+src/Skybrud.Umbraco.ContextMenu.Media/bin/
+src/Skybrud.Umbraco.ContextMenu.Media/obj/
+src/.vs/

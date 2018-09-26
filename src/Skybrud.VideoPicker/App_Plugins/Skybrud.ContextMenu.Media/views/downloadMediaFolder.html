@@ -1,0 +1,34 @@
+﻿<div ng-controller="Skybrud.Editors.Media.DownloadMediaFolderController">
+    <div class="umb-dialog-body" ng-cloak>
+        <div class="umb-pane">
+            <!--<div ng-show="error">
+                <div class="alert alert-error">
+                    <div><strong>{{error.errorMsg}}</strong></div>
+                    <div>{{error.data.message}}</div>
+                </div>
+            </div>
+
+            <div ng-show="success">
+                <div class="alert alert-success">
+                    <strong>{{currentNode.name}}</strong> was moved underneath <strong>{{target.name}}</strong>
+                </div>
+                <button class="btn btn-primary" ng-click="nav.hideDialog()">Ok</button>
+            </div>-->
+            
+            <h3>Download: {{currentNode.name}}</h3>
+            
+            
+            <input type="checkbox" id="recursive" ng-model="recursive" ng-checked="recursive" /> <label for="recursive" style="display: inline">Medtag undermapper</label>
+            
+            
+            
+          
+        </div>
+    </div>
+    
+    <div class="umb-dialog-footer btn-toolbar umb-btn-toolbar" ng-hide="success">
+        <a class="btn btn-link" ng-click="nav.hideDialog()"><localize key="general_cancel">Cancel</localize></a>
+        <!--<button class="btn btn-primary" ng-click="download()"><localize key="actions_move">Download</localize></button>-->
+        <button class="btn btn-primary" ng-click="download()">Download</button>
+    </div>
+</div>

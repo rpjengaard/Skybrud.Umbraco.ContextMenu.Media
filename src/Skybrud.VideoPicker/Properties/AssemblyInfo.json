@@ -1,0 +1,10 @@
+{
+  "title": "Skybrud.Umbraco.ContextMenu.Media",
+  "description": "Skybrud.Umbraco.ContextMenu.Media is a package for downloading media-folder in one-click in Umbraco",
+  "company": "Skybrud.dk",
+  "product": "Skybrud.Umbraco.ContextMenu.Media",
+  "copyright": "Copyright © 2018",
+  "version": "1.0.0.0",
+  "informationalVersion": "1.0.0-beta001",
+  "fileVersion": "1.0.0.0"
+}
