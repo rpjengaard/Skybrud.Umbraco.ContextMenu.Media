@@ -1,7 +1,7 @@
 # Skybrud.Umbraco.ContextMenu.Media
 Small package for downloading media-folder in one-click in Umbraco. After installation a new menu-item will appear in your context-menu under the media-section. Just click and download.
 
-[Insert image here]
+![image](https://github.com/rpjengaard/Skybrud.Umbraco.ContextMenu.Media/blob/master/documentation/assets/context_download.png)
 
 
 ## Installation
