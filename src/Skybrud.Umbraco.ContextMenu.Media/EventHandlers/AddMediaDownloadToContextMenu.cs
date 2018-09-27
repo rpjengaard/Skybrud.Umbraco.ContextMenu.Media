@@ -14,7 +14,7 @@ namespace Skybrud.Umbraco.ContextMenu.Media.EventHandlers
 		private void TreeControllerBase_MenuRendering(TreeControllerBase sender, MenuRenderingEventArgs e)
 		{
 			var treeAlias = sender.TreeAlias;
-			var dialogViewPath = "/App_Plugins/Skybrud.ContextMenu.Media/Views/downloadMediaFolder.html";
+			var dialogViewPath = "/App_Plugins/Skybrud.Umbraco.ContextMenu.Media/Views/downloadMediaFolder.html";
 			var title = "Download Media Folder";
 
 

@@ -287,13 +287,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Plugins\Skybrud.ContextMenu.Media\controllers\downloadMediaFolder.controller.js" />
-    <Content Include="App_Plugins\Skybrud.ContextMenu.Media\views\downloadMediaFolder.html" />
-    <None Include="App_Plugins\Skybrud.ContextMenu.Media\package.manifest" />
+    <Content Include="App_Plugins\Skybrud.Umbraco.ContextMenu.Media\package.manifest" />
     <None Include="packages.config" />
     <None Include="Properties\AssemblyInfo.json" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="App_Plugins\Skybrud.Umbraco.ContextMenu.Media\controllers\downloadMediaFolder.controller.js" />
+    <Content Include="App_Plugins\Skybrud.Umbraco.ContextMenu.Media\views\downloadMediaFolder.html" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\AutoMapper.3.3.1\tools\AutoMapper.targets" Condition="Exists('..\packages\AutoMapper.3.3.1\tools\AutoMapper.targets')" />
   <PropertyGroup>
